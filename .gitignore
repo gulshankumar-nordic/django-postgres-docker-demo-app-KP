@@ -1,2 +1,6 @@
 notes.txt
 .env
+
+__pycache__
+
+migrations
